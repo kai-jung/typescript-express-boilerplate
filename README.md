@@ -1,1 +1,1 @@
-# express-mysql-boilerplate
+# typescript-express-boilerplate
